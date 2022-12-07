@@ -7,18 +7,33 @@ body{
     margin-bottom: 15px;
     font-size:175%;
     font-family: Arial, Helvetica, sans-serif;
-    color: darkblue;
-    padding-left:20px;
+    color: rgb(1, 1, 69);
+   
     
   }
-  div {
+  h2{
+    font-size: 120%;
     font-family: Arial, Helvetica, sans-serif;
-    padding: 20px;
+    color:  rgb(1, 1, 69);
+  }
+  a{
+    text-decoration: none;
+    color: darkblue;
+  }
+  a:hover{
+    color:blue;
+  }
+  #container{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-top: 0px;
     position:relative;
-    text-align: center;
-    
+    text-align: left;
+    background-color: lightcyan;
   }
   .top{
-    height: 10px;
+    height: 50px;
     background-color:rgb(124, 221, 216);
   }

@@ -1,15 +1,24 @@
 body{
     background-color: white;
+    width: 80%;
+    margin:0 auto;
   }
   h1 {
     margin-bottom: 15px;
     font-size:175%;
     font-family: Arial, Helvetica, sans-serif;
-    color:blue;
+    color: darkblue;
     padding-left:20px;
+    
   }
   div {
     font-family: Arial, Helvetica, sans-serif;
-    width: 80%;
     padding: 20px;
+    position:relative;
+    text-align: center;
+    
+  }
+  .top{
+    height: 10px;
+    background-color:rgb(124, 221, 216);
   }

@@ -1,0 +1,29 @@
+#topgarden{
+    height: 50px;
+    background-color:#99cccc;
+    border-bottom: 5px solid #ccffff;
+    color:#66cccc;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 160%;
+    text-shadow: 1px 0px 1px white;
+    font-family: 'Times New Roman', Times, serif;
+}
+#sitemap{
+    margin: auto;
+    display: inline-block;
+    max-width: 99%;
+    background-color: white;
+    padding:20px;
+    margin: 20px;
+    border-radius: 20px;
+    border: 1px solid #003C72;
+}
+#bottomgarden{
+    height: 5px;
+    background-color: #99cccc;
+/*#plan{
+    margin: auto;
+    width: 90%;*/
